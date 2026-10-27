@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+
+# Saved NTRIP server configs (contains plain-text caster credentials).
+ntrip_profiles.json
