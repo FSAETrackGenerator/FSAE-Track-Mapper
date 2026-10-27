@@ -18,7 +18,7 @@ This application is intended for race operations members who wish to improve dri
 
 # Key Features
 
-<img src="images/image.png" width="300">
+<img src="images/image.png" width="400">
 
 The GPS configuration is specified top of the window and below it is the live GPS data readout including live GPS lock status, position, satellite count, HDOP, and time. You can connect to an NTRIP server via pressing the NTRIP button and providing your credentials.
 
@@ -26,4 +26,4 @@ Below the live GPS readout is the recording banner which contains the list of re
 
 Below the selection banner is the Live track map. The map displays the live position of track features and can be navigated to highlight and modify recorded features. Additionally, the map can be set to centre on the live position via the top left checkbox.
 
-The track features are displayed and can be modified in the recorded placements box and once mapping has being complete you can export 
+The track features are displayed and can be modified in the recorded placements box and once the track is mapped you can export the .kml file.
