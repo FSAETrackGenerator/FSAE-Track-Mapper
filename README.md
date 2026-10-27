@@ -18,7 +18,7 @@ This application is intended for race operations members who wish to improve dri
 
 # Key Features
 
-![[images/image.png]]
+<img src="images/image.png" width="300">
 
 The GPS configuration is specified top of the window and below it is the live GPS data readout including live GPS lock status, position, satellite count, HDOP, and time. You can connect to an NTRIP server via pressing the NTRIP button and providing your credentials.
 
